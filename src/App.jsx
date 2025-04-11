@@ -1,10 +1,10 @@
 import React from 'react'
 import {BrowserRouter, Route, Routes} from "react-router-dom"
-import Computadoras from './assets/components/Computadoras/Computadoras'
-import Sillas from './assets/components/Sillas/Sillas'
-import Celulares from './assets/components/Celulares/Celulares'
-import Menu from './assets/components/Menu/Menu'
-import Error from './assets/components/Error/Error'
+import Computadoras from './components/Computadoras/Computadoras'
+import Sillas from './components/Sillas/Sillas'
+import Celulares from './components/Celulares/Celulares'
+import Menu from './components/Menu/Menu'
+import Error from './components/Error/Error'
 
 const App = () => {
 
